@@ -1,0 +1,17 @@
+Tere tulemast Unitysse koos Gitiga!
+
+Git on tasuta ja avatud lähtekoodiga  versioonihaldussüsteem, mis on loodud kiire ja tõhusaks haldamiseks kõike alates väikestest kuni väga suurte projektideni.
+
+George'i osa:
+Giti on lihtne õppida ja sellel on väike jalajälg ja välkkiire jõudlus. See ületab SCM-i tööriistad nagu Subversion, CVS, Perforce ja ClearCase selliste funktsioonidega nagu odav kohalik hargnemine, mugavad lavastusalad ja mitmed töövood.
+
+No ma olen! Loodan väga, et see on redigeerimiseks õige fail! Kui ei, siis ma lähen lihtsalt kuskile nurka nutma...
+
+Nikita osa:
+Giti on lihtne õppida ja sellel on väike jalajälg ja välkkiire jõudlus. See ületab SCM-i tööriistad nagu Subversion, CVS, Perforce ja ClearCase selliste funktsioonidega nagu odav kohalik hargnemine, mugavad lavastusalad ja mitmed töövood.
+
+Piret:
+
+Üritan mõista ja aru saada mida teha ja kuiads.
+
+28.10.2023
